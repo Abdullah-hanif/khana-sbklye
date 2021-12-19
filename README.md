@@ -1,2 +1,2 @@
-# khana-sbklye
-saylani hacktone
+# medical-react-native-app
+medical app
